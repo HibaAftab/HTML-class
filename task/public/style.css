@@ -1,0 +1,41 @@
+#image{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#heading{
+display: flex;
+justify-content: center;
+color: blueviolet;
+}
+#form{
+    background: blueviolet;
+    color: white;
+}
+#submit{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#check{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#thank{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#para{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: purple;
+}
+#goback{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
